@@ -1,0 +1,77 @@
+
+
+form { 
+background-color: #eee;
+height: 30%;
+width: 20%;
+border-radius: 15px;
+box-shadow: 0px 0px 10px 0px rgba(204,204,204,10);
+
+}
+
+.email {
+    color: #eee;
+}
+.update {
+    width: 50px;
+
+}
+
+a {
+    size: 10px;
+}
+
+body {
+font-family: 'Work Sans', sans-serif;
+
+}
+
+label {
+    color: #1ECEFD;
+    display: flex;
+
+}
+
+.info {
+    font-size: 30px;
+
+}
+
+.bio {
+    font-size: 15px;
+}
+
+input{
+    padding: 40px;
+    border-radius: 15px;
+}
+.blue {
+    background-color:#1ECEFD;
+    height: 40%;
+    width: 30%;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 0px rgba(204,204,204,1);
+}
+
+img {
+    border-radius: 15px;
+    width: 70%;
+    height: 50%;
+    align-content: center;
+}
+
+h1 {
+    color: #505355;
+}
+
+button {
+    width: 80%;
+    height: 20px;
+    background-color: #505355;
+    border-radius: 20px;
+    color: #eee;
+}
+
+.edit {
+    color: #505355;
+}
